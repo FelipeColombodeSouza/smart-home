@@ -118,5 +118,8 @@ Para importar o arquivo do projeto, acesse o menu superior do projeto e vá em `
 
 Abra o arquivo flows.json, copie todo o código e cole na aba de importação. Logo após, clique em `Deploy`.
 
+Ao final o fluxo deverá estar conforme a imagem abaixo:
+
+![alt Imagem fluxo node-red](https://github.com/Josiane-R/smart-home/blob/main/Raspberry/fluxo-node-red.jpg)
 
 E pronto, o projeto estará rodando :tw-1f604:
